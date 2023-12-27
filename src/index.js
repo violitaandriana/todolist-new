@@ -1,4 +1,4 @@
-import './styles.css';
+import '../dist/styles.css';
 import 'boxicons/css/boxicons.min.css';
 import createHeader from './header.js';
 import createLeftSide from './leftSide.js';

@@ -1,4 +1,3 @@
-
 function createModal() {
     const modal = document.createElement('div');
     modal.classList.add('add-task-modal');
